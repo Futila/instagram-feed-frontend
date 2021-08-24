@@ -54,7 +54,7 @@ class Feed extends React.Component{
                     <img src={more} alt="mais"/>
                 </header>
 
-                <img src={`http://localhost:3333/files/${post.image}`} alt="" />
+                <img src={`https://instagram-feed-backend.herokuapp.com/${post.image}`} alt="" />
 
                 <footer>
                     <div className="actions">

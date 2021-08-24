@@ -1,8 +1,8 @@
 # Instagram - Feed
 
 <div align="center">
-    <img src="https://github.com/Futila/instagram-feed-frontend/tree/master/src/assets/desktop.png" width="800px" />  
-     <img src="https://github.com/Futila/instagram-feed-frontend/tree/master/src/assets/mobile.png" width="800px" /> 
+    <img src="https://github.com/Futila/instagram-feed-frontend/blob/master/src/assets/desktop.PNG" width="800px" />  
+     <img src="https://github.com/Futila/instagram-feed-frontend/blob/master/src/assets/mobile.PNG" width="800px" /> 
     
 </div>
 

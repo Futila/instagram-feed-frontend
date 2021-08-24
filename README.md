@@ -1,14 +1,14 @@
 # Instagram - Feed
 
 <div align="center">
-    <img src="https://github.com/Futila/instagram-feed-frontend/blob/master/src/assets/desktop.PNG" width="400px" />  
+    <img src="https://github.com/Futila/instagram-feed-frontend/blob/master/src/assets/desktop.PNG" width="600px" />  
      <img src="https://github.com/Futila/instagram-feed-frontend/blob/master/src/assets/mobile.PNG" width="400px" /> 
     
 </div>
 
 ## 💻 Projeto
 
-Instagram - Feed é um projecto  
+Instagram - Feed é um projecto baseado na home page do Instagram, permite fazer posts, visualizar os posts em real time e dar curtidas nos posts também.
 
 ## 🧪 Tecnologias
 

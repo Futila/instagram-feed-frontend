@@ -54,7 +54,7 @@ class Feed extends React.Component{
                     <img src={more} alt="mais"/>
                 </header>
 
-                <img src={`https://github.com/Futila/instagram-feed-backend/tree/master/uploads/resized/${post.image}`} alt="image" />
+                <img src={`https://github.com/Futila/instagram-feed-backend/tree/master/uploads/resized/programming.jpg`} alt="image" />
 
                 <footer>
                     <div className="actions">

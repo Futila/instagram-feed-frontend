@@ -2,6 +2,7 @@ import React from 'react';
 import api from '../services/api';
 import { io } from 'socket.io-client';
 
+import image from '../insta.PNG';
 
 import './Feed.css';
 import more from '../assets/more.svg';
@@ -53,8 +54,8 @@ class Feed extends React.Component{
 
                     <img src={more} alt="mais"/>
                 </header>
-
-                <img src={`https://github.com/Futila/instagram-feed-backend/tree/master/uploads/resized/programming.jpg`} alt="image" />
+                
+                <img src={post.url}  />
 
                 <footer>
                     <div className="actions">
